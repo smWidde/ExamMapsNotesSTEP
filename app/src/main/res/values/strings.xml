@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExamMaps</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="note_editing">Редактировать заметки</string>
+</resources>
